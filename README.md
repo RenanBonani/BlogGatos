@@ -26,7 +26,7 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 - Variáveis no CSS;
 - Cores HSL;
 - Animações e transições simples.
-- [Acesse o projeto finalizado, online](https://renanbonani.github.io/Desafio-RecriandoLayout02)
+- [Acesse o projeto finalizado, online](https://renanbonani.github.io/BlogGatos)
 
 ## 🔖 Layout
 
